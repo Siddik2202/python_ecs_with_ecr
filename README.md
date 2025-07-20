@@ -2,6 +2,8 @@
 
 ## Steps to be perform
 
+* You need to upgrade your flask in dockerfile check befor run. 
+
 1. Craete a Cluster on AWS ECR Panel by giving Name and AWS Farget.
 
 2. For docker image we need to create private/public repository from Amazon ECR by giving name.
